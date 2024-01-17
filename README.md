@@ -21,8 +21,7 @@
     ```bash
     ./初的部署小工具.bin
     ```
-
-### 示例用法 Example Usage 一键运行
+4.一键运行：
 
     ```bash
     wget https://raw.githubusercontent.com/4665x312ad/Chu_clewd_and_SillyTavern/main/初的部署小工具.bin -O 初的部署小工具.bin && chmod +x 初的部署小工具.bin && ./初的部署小工具.bin
