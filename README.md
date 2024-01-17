@@ -2,8 +2,6 @@
 
 ### VPS 安装 Installation on VPS
 
-提供安装说明和步骤。
-
 1. 下载部署小工具：
 
     ```bash
